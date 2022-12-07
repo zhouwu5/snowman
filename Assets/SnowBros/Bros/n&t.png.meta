@@ -1,0 +1,7163 @@
+fileFormatVersion: 2
+guid: 75a64c6c2d37e4134b881eff8b621f9a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: n&t_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38959b3043ed642029ef364250e603ad
+      internalID: 952910372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 328
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a31f614e03548359d31792f988dc26
+      internalID: 1997814509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 328
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab3cddc478c6452fa15b9eb9fe13e88
+      internalID: 1825344416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 328
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd515f9a0f4744f3f8f0c7508708466e
+      internalID: -1927126588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 328
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45dd2d3b911a48a587ca7a129889d16
+      internalID: -2085677806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 328
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda9e4173fb8f449ca30e01107b86025
+      internalID: -954157076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb9d2be7c70f4804b2423246e4c156b
+      internalID: -1111250451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fa9d5f550d348f281b0d8d9c9db7cf
+      internalID: -114653713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069371c744e4a4792bddab70cd1307d9
+      internalID: -1811981966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 320
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d4d1e44c45846fba4137af998f2325
+      internalID: 332653046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 320
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6462beaac41d40829343cbd755429fd
+      internalID: -1341178202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 320
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60c32a2e593b41089f8b1e4261eb2a9
+      internalID: 1128745958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 320
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b30013d9c36641269f8c5f12ae78648
+      internalID: -1457795180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 320
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef32edd963b44d5cb3b646ec1fdd25d
+      internalID: -933807810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8995565e7f464ce7b9be5b749e73cd4
+      internalID: 1039621885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 318
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db12808ae6fa4f71969f06368832c88
+      internalID: -590082889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 320
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7587d17a2b9404bb88a2c5e3f30ad7fe
+      internalID: -787542634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 320
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6667193ecaf74826b851af72ab11bf7
+      internalID: -157395183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 320
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d8ee0eb754a4c84b0af3843689381e
+      internalID: -258088162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 320
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e12f69dfe691482981a5e073f0303c6
+      internalID: -1018453300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 282
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a979c00024e43d6b1e1a6189874b6d
+      internalID: -1831549439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 282
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983bc45516e4d401fa9604f887c14940
+      internalID: 892486231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 282
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a88d22ff0f2747fc838d72b88f623c3
+      internalID: 696257462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 283
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536ca6d1cf4f641ec86a4d0e06911560
+      internalID: -788246847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 282
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc44e149c946463da2076a9500d64fa
+      internalID: 204850410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 282
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab10cbb0a9694456aa27506aa960fb9
+      internalID: 1317247975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 282
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99861565191b413cb3ea03fb2965057
+      internalID: 103837163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 282
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2413d13d8c2d54852a9c69572b7e7e87
+      internalID: -1613941862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_28
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 282
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47c809918d504a6783167ee4401ebc4
+      internalID: -113461084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 283
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af001590876344b5a7680c697d7d3b8
+      internalID: -1169143752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 282
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f272b7be3632046d99607b2907936eae
+      internalID: 1959526325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 282
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4593f9f414d4fca8b86aa307ce86cd
+      internalID: -464522851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb5a1501eca3481c9500ab73a4a7306
+      internalID: 964105771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 273
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9fbd2c6f759463a970b850c4b90f11
+      internalID: 701355393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 273
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1049c7a4364f45c297e64e1d93b8d5f
+      internalID: 1822347720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_35
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9681ab08f1123407ead89bafa95984ed
+      internalID: -1004745882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 273
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af6eb2d189424874862ea3dd234978f
+      internalID: -1096124555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 273
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004774f4831b84d3289ae34957cf0d27
+      internalID: 1921531367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 273
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dab5a8970024d66b7e2c8c76b40019
+      internalID: 599575456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 273
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08bb7cbd23bc453fa3a9751c5b842a9
+      internalID: -1993709824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 271
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d24459778f54898b2288d7a59459f7
+      internalID: -530814041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 273
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0e974435a5f4f7288ed8b605034f58
+      internalID: -1891891961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_42
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 273
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249623bbf856a48d5978742db231ad19
+      internalID: 70928863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 273
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdedbbe1fc6a4a03ae44024bddaaf60
+      internalID: -705763982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_44
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a444590ce5ea4ad2a48f64ef883b8f6
+      internalID: -936694918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 273
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837258b896244485891197f9e100e60a
+      internalID: 810785599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_46
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 273
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177db80df9144ef4830fe06b72e54a4
+      internalID: -1840470569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_47
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 273
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fcd1c4b5e88470789ddb866ac7dc55
+      internalID: -2060309921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_48
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 273
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2186f5d066928440685979b81b5f9083
+      internalID: -380153501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_49
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 271
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc83d7be25ec74f9dbf3341ccf092275
+      internalID: -946402212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6e03c63eaf046eab3da40adb7ce4d7
+      internalID: 1829616735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_51
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cb04601fb8a4a6b921406a3d2a0bcf
+      internalID: -743838483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_52
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 237
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af16afd47d15f4cf88aa81c0dc736d6b
+      internalID: -626626216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30415066487ea4ac583bba9bde710ea0
+      internalID: -1556571849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 240
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9be4f3b4e8974556a721a272a8bd591
+      internalID: -1286388582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_55
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 246
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8283d782e3f8d4b13817a4c5af4c1ba5
+      internalID: 1530165091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_56
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 242
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb86d9a72a334280bff7daedfdd4ceb
+      internalID: 75291365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_57
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 243
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16e31fc25ffd4bd3b0d1fd4922bd0e5
+      internalID: -135241928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 237
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53672d92523df4605b805fbed0b028a0
+      internalID: 565969776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_59
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738bc56879b5649f2a79764c60379281
+      internalID: 1584472880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_60
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 237
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f62dbd9a0def427d85d1807e8b31965
+      internalID: -2032437145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_61
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 237
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50871b5dea93d4d579aa7b24704dfa00
+      internalID: 854741795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_62
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 240
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8956c9359071f4db2a0fed682455488f
+      internalID: 1215443857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_63
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 246
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e1985329873444b9f0fff9519fc79f
+      internalID: 67640096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 242
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784317228e57148caba5631ef3e196f7
+      internalID: -294791434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_65
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 243
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb87d6ecf3b747fd82264bf8836ef2c
+      internalID: -639705723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23953c6ec5c414caaaea62f5e98e61f4
+      internalID: 272387706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7c8705162ca4f16979dbebb188eebe
+      internalID: -766221468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 228
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6342bac926ed64f4cbc2e89d1d94715b
+      internalID: -423922559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 228
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961f5660b9422417da35feeed21bdc05
+      internalID: 1816334386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_70
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 228
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e71774bb803486d8cd1eaf29d9732a
+      internalID: -610397059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 226
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373f476d37d6849e4a45a3785bf8b3c3
+      internalID: -953889019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_72
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd377df8c784109b6588334d3e5d79
+      internalID: 1744049461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_73
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 228
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189fa3dd6905a4994833c68bc9673722
+      internalID: 428356355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_74
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 228
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579ef2c3fa9f145f3a8919e756429bc1
+      internalID: -1346303420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_75
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 228
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce21a224c40c4cefb4bb5f0c0941901
+      internalID: -1356471310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_76
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 228
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e767b579fb232401296bebead0608645
+      internalID: 1883834022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_77
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 228
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6794ddbb6ade6482896db0dfcddc57a9
+      internalID: -1774020932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_78
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 228
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397bc8925a4464c0b91dc0ebf173369c
+      internalID: -2119682718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_79
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 228
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba4ea499736347ad85efc64328d87a3
+      internalID: -128097563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_80
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 228
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7ea7b421b7f438d9d241e70966e6a8
+      internalID: -1584133205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_81
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 228
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821a40df6092d4efe9f1db6eb37ab1d7
+      internalID: 954911027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_82
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 228
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f072828cdc2243a2a1718129213a43f
+      internalID: 1849545967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_83
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 228
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36df6ef40860c4b61866e43e05e2a75a
+      internalID: -117645886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 228
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c91a7dc766a4bf386542135cf96fdb
+      internalID: -1147031284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 228
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9b14b4535645d9b809e6f1c4864fe
+      internalID: 1976122437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_86
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 228
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5351b15d697a4384aa8dbc7b99a2d40
+      internalID: 1140942064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_87
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 228
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5fa35d12dc646bd942efbc302c7fe0
+      internalID: -46921368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_88
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 228
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0449b39810bd4f5a85c7a366a28c0dd
+      internalID: -736371958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_89
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 226
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a0f727bfc7c4b52aafa5a123dc6112
+      internalID: 97579062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecb2cce0034d4257a641843cacfd43c
+      internalID: -451841045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_91
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 228
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2d46d0d010d44a7899e6e5a365bd82
+      internalID: -1097939971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_92
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 228
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be94c967f805d4f7f9a5477897d92bdc
+      internalID: -796166134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_93
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 228
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4668fd51255b74114b69c1df5b6addad
+      internalID: 198879559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_94
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 228
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c480305d72fd4b218d964d193b55469
+      internalID: -1287165872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_95
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 228
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf76d153188c41b0841007b14ed4977
+      internalID: 447186433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_96
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 228
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3943c18706fb48f6ba32072f3624d24
+      internalID: 501569120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_97
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 228
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4c1fd0c377548c297caeab33abd4c3
+      internalID: -467459925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_98
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 228
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a62e42ec1df34835854a16bd6bdd741
+      internalID: 620493887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_99
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 228
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6e426cb3d024f4285a5c82371925fe
+      internalID: -635617922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 228
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfad9ecb1ae44def8735a810ec3fa4b
+      internalID: 41293804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_101
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 228
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a25b9dc82ad44f2b00c53fb219eed5
+      internalID: -233099084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_102
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 199
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5145d5e27eaa147fbac8049e2d642aeb
+      internalID: -1012865789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_103
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 199
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11b18329fbca4a1a9c336959ce6c002
+      internalID: 2145677126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_104
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 193
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfd27b18f1d44911a052ae3b1388115
+      internalID: 496088762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_105
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 209
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2145cacc1024f9ea2e26780aa53ad0
+      internalID: 325532021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_106
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9e1fe2b3d4543029cf51cb825e4a8b
+      internalID: -1256476746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 209
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec0f532b3a94523a300fc06d51df63
+      internalID: 881756864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_108
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a225402ca20841db89203f888fc3fb6
+      internalID: 1240298495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_109
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 199
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad7c841e842c431ca6116836245ca28
+      internalID: -1190163072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_110
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 199
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b8fbcc5b6304d199b9d093380e4539
+      internalID: 1580601916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 193
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1857ceab363347f38e16cf0a5265156
+      internalID: -75427745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_112
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 209
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192016707e11b46c098842c3ae6bd5a9
+      internalID: -1170513648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_113
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eca08ef1bf9474490ebf2c8c34a04e
+      internalID: 796475013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_114
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 209
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5244db80e8e394694aff13cb4d919f83
+      internalID: 97562895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_115
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523577e16d42d44bc906b6692a367c9a
+      internalID: 796121673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f432c12994fb64cf8bf2fc53bae32aed
+      internalID: -610317031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_117
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 182
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c41d4a3eeb844f58bd008ca31dae4ae
+      internalID: -2015052047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_118
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 182
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97bc3a24bd074326869efa662b3ff60
+      internalID: 2076635962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_119
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47482333796f408692ad837e3ce8b7a
+      internalID: 1402662892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_120
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 182
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d484fcf43e7bf4b678c7d10009fed94a
+      internalID: -78878767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_121
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 182
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e067429614b45388ab503c0306ab9d
+      internalID: 1385921010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_122
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 182
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c734f8408d1147ab87da68bbf066e7d
+      internalID: -1472794152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7163f396aeb4d0184f9b9b7e32bed5
+      internalID: 1273643656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_124
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857a553d9b8bd4cda879af5b16f4e45c
+      internalID: 1127252730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_125
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7c9b1ea89a645daa32ef0166eb57ae
+      internalID: -556947666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_126
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 182
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1535bc3c2c6b44bfa58de646d525af1
+      internalID: -1388513931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_127
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 182
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323fc46d4be7845de89ca8327ed1c188
+      internalID: -118766110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_128
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d286d63eeb4ab426b83b34cc8ac08021
+      internalID: 1763175080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_129
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 182
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18000948817134cb7bbe65f0f8b9d648
+      internalID: 27191649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_130
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 182
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f2f1351584b4e57b4c4facb8a12800
+      internalID: -1166246081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_131
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f3c09524f384e3597f4a264f53a867
+      internalID: 1012984373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a9c2bfb49c41f6b6795e9c8a379c4
+      internalID: -1178810854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_133
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 182
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfccb105ed4841618cb77f5b16bf0ac
+      internalID: 694677230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_134
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 182
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d4073852fe34f67b8936f2773a5bff
+      internalID: -743860103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_135
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 182
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91995746c508f433f91d2fe2683bd6bf
+      internalID: 383666324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_136
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 182
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16280ede169d64af6a7c3c01f0f0b3ae
+      internalID: -2132969731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_137
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 182
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d74dcb6b07b45c1966f1b1b1e70e35
+      internalID: -421799398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_138
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04f0b47db566479fbe7caf3876f9d4e
+      internalID: -1811070584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_139
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 182
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dfdabaee62f418f85af7d19ad58f36
+      internalID: 513233069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_140
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 182
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c5c716a52904448ae9db42a07e509b
+      internalID: 313252526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_141
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4d9c35258024373b1fda330e9f105c
+      internalID: 351936656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_142
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 182
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae657268d28ac42abb3e2350386a16e0
+      internalID: -1166585381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_143
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 182
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854f028c61916449eb3a62685c076943
+      internalID: -1818532147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_144
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 182
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2173c8d2dd5a4581a180c1e9ebed04a
+      internalID: 1162770319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_145
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fc5014824d74703831849c35bc5d6e
+      internalID: 1627248514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_146
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb10247f9c5e841058dfbadeeeb5c711
+      internalID: 280425873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_147
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed2ff190bf17407c966728dc73dc64b
+      internalID: -1520503084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_148
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 182
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0db9f5c1fa23401e925cc29812a7304
+      internalID: -2050217060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_149
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 182
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2269a5b1e0247ce9184567052d5147
+      internalID: 790986015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_150
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46ac7530a89c4ab887548d0baf4388f
+      internalID: -633671256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_151
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 182
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c325fda9bd4f7a918b6ca438606e5
+      internalID: -2089721529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_152
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 182
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27dd59f17ea34f9bb759dcfecbd17c3
+      internalID: 1113728868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_153
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d7b4355c0f74dcca6dc1d7ceb20f8f
+      internalID: -2109503998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_154
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98840b8c0bbaa4d759e9e6f459fe9975
+      internalID: 68212369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_155
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 182
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4835c1b3280ff474cbc55ffe412d1cfd
+      internalID: -930917618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_156
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 182
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f192f1adf78f493b9d8dc027d8a9759
+      internalID: -1592526324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_157
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 182
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0f2f9c25cac403d82f6e0847f8072c
+      internalID: -732924344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_158
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 182
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8d184ade50145ebb2db5536a07772a
+      internalID: -1653663839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_159
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 182
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f062eb5a1a1f49128087b1c87b9e7ca
+      internalID: 688396306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_160
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f2bf6635a59478790b7caf507b5259
+      internalID: -815680442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_161
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 171
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b044d5a5f6a643aa849b51e3c921cc6
+      internalID: 1200028287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_162
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 171
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd4dda4193842fdae1509d2d22c4a6
+      internalID: 144315531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_163
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 171
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fdd5ba1805e49abb49153c0f8a7f5e
+      internalID: -1393310227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_164
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 171
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e270f618fb3a5475d9087a177d831429
+      internalID: -1999598337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_165
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 171
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4dd457bd044691921cd88d0ac8c2d
+      internalID: 452489838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_166
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 171
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040bf42f3d85448228c58c82bee80ffa
+      internalID: 85132698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_167
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 171
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33a5348cd26d45eea5ced613b12b750
+      internalID: 121229461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_168
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 171
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff47a9d7ec6644214b5d81cdccdba06e
+      internalID: 1909633669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_169
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 171
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403db81c8700649fe863a8cff7fd9641
+      internalID: 1355909205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35699f8acf85426e91d5409a9807821
+      internalID: -956357617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_171
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 137
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf5413d36cb141f58722f25cde80476
+      internalID: -944538494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_172
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 137
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d974bcf8329d4e899cf12c18535ce8d
+      internalID: -206020136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 137
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd2264f8f6a44206aade9179028f409
+      internalID: -1621198969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_174
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 137
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039c0a8617ad7466c9937cf5cf13d3d2
+      internalID: 574490785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_175
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 137
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8790cce5de8e64b808eedf3dcdf17a8c
+      internalID: 549443809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_176
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 137
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bcb64e5345c4beca025928a2186c61
+      internalID: -786780892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_177
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 137
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d486376803f0e4daa9c51262f6a1563d
+      internalID: 1471479548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_178
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 137
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204fa66778e7454cb68330745340088
+      internalID: -211401996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_179
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 137
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf8c34a623784242a4acc0d3c8d822e
+      internalID: -649084019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_180
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 137
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2102c368881ef447e9a5a877012a04f4
+      internalID: -476164092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_181
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 137
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b73149645be4961875f2743e2287bb
+      internalID: -2030767457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_182
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 137
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c87d1a2044f64bc49be9e697fcbb51f
+      internalID: -1170835986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_183
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 137
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e6dd11138614f898abb76267cec3a7
+      internalID: -1712866214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_184
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b174fcaf5fa8a4f4e8e4969cbb39826c
+      internalID: -1111049209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_185
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cdeacec33ed4bb384fd9282344e456
+      internalID: 1308903359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_186
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 127
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783fce195d6a6486fbb106b28edb8259
+      internalID: 1964438685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_187
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 127
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5268e8336208f43a2b0b13693e344085
+      internalID: 2097408246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_188
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 128
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9148284c278784a9e80fc1f349ef03e1
+      internalID: -557403499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_189
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 128
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318cab05ede354e9a8bca0976d422985
+      internalID: 1357023301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_190
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 128
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b54be4821e35445abba44ab5c61c2b3
+      internalID: -1425539343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_191
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 128
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8260a4aea6b0245b69225161fbbb2981
+      internalID: 1567132867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_192
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04378c2102a443b79dd056a71f5b678
+      internalID: -1611112729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_193
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 127
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bde01995f5b64f33ad1c6aa6494d2b6
+      internalID: 2135548218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_194
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 127
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6a442057db049d5aa643f79027d086
+      internalID: 2035307107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_195
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 127
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762da9accfdce4a408bbaaeb93c58d85
+      internalID: 807627110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_196
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 127
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6c8254e0f3645bb991d566e2b061d9
+      internalID: -984303378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_197
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 128
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a6ee0176d7a4746b38e52de0db6c59
+      internalID: 971740011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_198
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915cb6d39e404f92933fb515d4a8986
+      internalID: -424536790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_199
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 128
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8df1461a1334b0ab8b76864a8987a0
+      internalID: 2145464662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_200
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 128
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40ceeefaa4a14db1b426c48b80876e0
+      internalID: 474044501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_201
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 128
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc648f95fec34322beecbe0b09d9029
+      internalID: 1795992975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_202
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 120
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2507222a6a11d4b85aed465865c38322
+      internalID: -1976731725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_203
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 120
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abca331194a6b4fdb810b3c57d9e946f
+      internalID: -1325868109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_204
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b70297a3d24a779bb4895739979fb
+      internalID: 57436597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_205
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a3616d5004749a4be18df7292d5489
+      internalID: -1464422734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_206
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 120
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc43756084b41aca229d58a0601051
+      internalID: 1655695703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a5708f15ed475d9acd2fb9b4d87ba
+      internalID: -1975721488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_208
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 120
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6f98ae882148c3aa9cc7508c0f7ae
+      internalID: 1327898200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_209
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 120
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a2eab889fb04754a8e2f564ca150e8
+      internalID: -141327078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_210
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 120
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a924ceaf3c9e475e9699c9a2e06eb12
+      internalID: 1938113902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_211
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb48c090a23ba439ab9536de54bb7e40
+      internalID: -384649429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_212
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f45fdec381aa4a42b1c546c2d2faa87
+      internalID: -1185595383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_213
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 120
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d647ff1455e4943b582fe2bb6f7705f6
+      internalID: 1203596643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_214
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 120
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0e271fb6432485f864bb82e3badbf8
+      internalID: -541562123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_215
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 120
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d19e0099f044fd795fbbebff479555
+      internalID: 921484952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_216
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48d84d3265ba44db8efe9fd79af186d
+      internalID: -1412858077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_217
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 112
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e7d0b2dd90548078b638254294bc45
+      internalID: 1384553120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_218
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 112
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d305d7b73ea434b1c90b5f9feaca3c7b
+      internalID: -1841785224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_219
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 112
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35300830e46ae44d0af9761bf22313ff
+      internalID: -1749177234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_220
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 112
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c0e43d9ac334aaab91009f1257b5ae
+      internalID: 843398480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_221
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75ef1c0db9854a099566d18d58776b0
+      internalID: -1760209015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_222
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 112
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4325cb8087492408284b0e6d8c824b56
+      internalID: 46254110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_223
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 92
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb6b83090a0c468f97b12f9b29571eb
+      internalID: -208678057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_224
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 112
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3afc8b65ade46b28dce5c7dbea1d2f
+      internalID: -740695312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_225
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce866b9ae304651bbd149a4ea51d30
+      internalID: -1094339154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_226
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 112
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6fcdc0b8b5a42bfacabd071e487716
+      internalID: 910723936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_227
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 112
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d3f2ebef389417cb5ed84a89961ec0
+      internalID: -1361685389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_228
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 112
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1610d638c08e6457d8e739e94a8bbb41
+      internalID: -456293692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_229
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 112
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84bb55a341444a99b27d7ddf1ccc5e9
+      internalID: 1241366525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_230
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 92
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb5696d119484037a21501d8306b032
+      internalID: 57077392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_231
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e0e681a9274e9e996b51c1af40706
+      internalID: -209686972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_232
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 82
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1add93005213f48c6b29ef33ed9b4e85
+      internalID: 1756772632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_233
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca0cbcde77834e038ddc2a851fdca08
+      internalID: -242898772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_234
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 92
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837baedc775574455872d25130f798bb
+      internalID: 568809389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_235
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 92
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e161f1f233e2a46b4bf01bb156141e5b
+      internalID: -1037614684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_236
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 82
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568c6fc969e464b9c8542c6d9bcaa593
+      internalID: 1556984354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_237
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 82
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f104433fdfc134f1e99261c71c6ea4cc
+      internalID: 167256105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_238
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17905c0cf30c843c9a3f2aad4732cef3
+      internalID: -1207268637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_239
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a8918ea39c34fbb85579c1ebb1ad82
+      internalID: -1304683157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_240
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d8b81f4f171488cb18a52b9948a4b8
+      internalID: -591294694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_241
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9794b40a7b3114361b3ec4b7b29c2eb3
+      internalID: -1397091532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_242
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c5e49fa18c34c1487cea1e551d1d12
+      internalID: 1407945022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_243
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 83
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085f220cecfcd4724a10502f939e4b66
+      internalID: 1905898771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_244
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 83
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c613886741bc84014b4df6d7df60443c
+      internalID: 1493258289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_245
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 83
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5435029f1fbd74ea2b2cd068ab6d9698
+      internalID: -143639008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_246
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 83
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf04f98fc846436eae87665a25bbb6b
+      internalID: -1621500207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_247
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 83
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afee7807c8c384227a4e69d752c11716
+      internalID: -652561112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_248
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 83
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51f8f277fec44947bdd21e84027fb2b
+      internalID: -1905090313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_249
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dafecdedd24d4e0a862503d9c344021
+      internalID: 985882278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_250
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b31f41f91e4e3f9dff370b8240a05
+      internalID: -2022955411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_251
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 83
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cf873ecb31f476b82e7d1bb69a3765
+      internalID: 1247054033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_252
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 83
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe50ab78cb734c929be099ac689b87b
+      internalID: -970935208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_253
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa45bb12a55644f3a7bb7ce34519a2c
+      internalID: 877264951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_254
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f7982a500944c3e8000e8060e14547
+      internalID: -197344869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_255
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62909dd320ef5425e82fbd87b3a27aaf
+      internalID: -537533711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_256
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e215d1a236a4a939c51eeba5be2f63
+      internalID: 674549530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_257
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 83
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3374d0d8699454a6881405b421a2cbc6
+      internalID: 1028320851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_258
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 83
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c81e3900052496c96c9976e89e64b5
+      internalID: -697765200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_259
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 83
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320ad22792dc34ba4a5f4b998e2d3c23
+      internalID: 1106889570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_260
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 83
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6c7eae258f14546950f98639b0e718
+      internalID: -214102139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_261
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 83
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4be04bcb43d44ecb8e2d83f9e2abdb
+      internalID: -541516029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_262
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 83
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa3b6f0f3bf4385902efb0bd1663f2
+      internalID: -1746534122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_263
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 83
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005da86ab526346f2bc10dc4537561b5
+      internalID: -1167182980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_264
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a840b52f134849bd22f805a26ea8f
+      internalID: -1094008877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_265
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 83
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e873ded57014c9e935709c4951871b
+      internalID: 861534195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_266
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f14a88d87048f98c671f6bdb57ebf
+      internalID: 342299731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_267
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 49
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b034c153896044fa9497a62bdeee74d
+      internalID: -2003675427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_268
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83ed82eed89346049a993bac79b1720
+      internalID: 1891436426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_269
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 61
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ca2e7aa5dfb43a286ac3156d5e25bf
+      internalID: 590478723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_270
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a56c2c2c16b4e9ea70835223c05848
+      internalID: 217910261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_271
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 70
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fca0d92d5fd4469a8be139863696707
+      internalID: -82640613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_272
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9151e7bc198234767aebfdc502f0419c
+      internalID: 1041334311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_273
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61385c5b5a9c740cbb110d0ccd0fcbaf
+      internalID: 954444200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_274
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 50
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9f3428e614544679d717bd1df91baf
+      internalID: 452603622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_275
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 49
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd88e5c6d80d40cf8c3714d45c2b8e6
+      internalID: -1355959056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_276
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 50
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc270696acc4474f984b8a22ce5aeba
+      internalID: 1517032271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_277
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 61
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768aada0cdc5443d0bc9732ca495cd00
+      internalID: -1910132155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_278
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 70
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59afacf34e00448298952060f73dbb96
+      internalID: 1448356967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_279
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 70
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9610f6bc6ff5146e0a732502785eb115
+      internalID: -668506436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_280
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea0d33f564414980a86ba566da79a77
+      internalID: 2114040190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_281
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fed30f8ed0464c2b9d380bd4f00f86d
+      internalID: -1545854878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_282
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed14e676252d42418c3b08caa3c57c3
+      internalID: -182435528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_283
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 41
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e7446fc6ffb4cbc87ebaf7520f39b6
+      internalID: -2053268946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_284
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eabb1ffce4fb4b9ea43433f976ce247
+      internalID: 1799272477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_285
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 39
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e26ee21836e34aceb18604d5b857309
+      internalID: 1644843553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_286
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 41
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e164f541feb0541d6989fd7cce0b5772
+      internalID: 1269622795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_287
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 41
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073fc0ab095044c4f9cdef9d783d5730
+      internalID: -1245181900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_288
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 41
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521c53ed360cf49ab8ec03dcf855f321
+      internalID: -1779145134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_289
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 39
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806de7f30d8324627a19c1cb5fb97587
+      internalID: 1229222534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_290
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 41
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e660e9f2c584b41d8874fb9d14a3fee3
+      internalID: 436204803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_291
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 41
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc9a6beda49e458eb84a23c67204626
+      internalID: 1019779622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_292
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 41
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ca1142115764260b701700ab4b7f09
+      internalID: -1103936361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_293
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 41
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da6b82352c344c8bafc760951d0f2b6
+      internalID: -1412357231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_294
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 41
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e536d3c4b202e4ebb8735d9dbc687e42
+      internalID: 1353070033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_295
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 41
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2157bed51d64372b0c4b309041b933
+      internalID: -1284408947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_296
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 30
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48caf9d5e40d3457290630d26b4c859e
+      internalID: 1071993878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_297
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 30
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3af21e7193c4c67bfa68a1fd56b699
+      internalID: 586989672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_298
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 28
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c458cc95e9c964d9791954d256c750d3
+      internalID: 1455783564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_299
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 30
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700ecd788d2344035998fd4dadddc513
+      internalID: -542055600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_300
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 30
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a04fbc135ac48eb923eed8ae0f4f02
+      internalID: -1751292748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_301
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 30
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a5495b244c64d77bf5ebe683820e72
+      internalID: 1278232452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_302
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 30
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991446b67bfda46ab9d3edec451cc019
+      internalID: 908420169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_303
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 30
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b484a44004c48d8a4fa9679e9fb817
+      internalID: 1666904172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_304
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 30
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6551f8aafc4864fba93a747bbc225f71
+      internalID: -1945181744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_305
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afaf371ad90d4612ad869f1743234db
+      internalID: 1574868714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_306
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e51eb28fd92461da653db31b89c730
+      internalID: 245075921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_307
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e156138d96ec4ec1be6d6557d7054cd
+      internalID: -1417797725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_308
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 17
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b063bb46d1b004d4ab58a61c806ac102
+      internalID: -2019895272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_309
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7c5133d99f0416d8a794396edf4f36
+      internalID: 747796656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_310
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fe7077dd4564340840613a339abb1f
+      internalID: -1352704375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_311
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49946c10826f14fcbba6ea7c4a81ba5e
+      internalID: 1094360703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_312
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf303201d80241458df1bf299751e31
+      internalID: -1041073770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_313
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3433d5e5aaf54cd4b7827ad5647a001
+      internalID: 530223933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_314
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6df1c75a7783499792e4747ba9a1e16
+      internalID: 1495099848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_315
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d69ce503fcc7471cb9388f72b6a248a
+      internalID: -1834028595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_316
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 17
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e9c19eba809440aa2ef47f0229a4b1
+      internalID: 1491436602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_317
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d7c816d32c147b1b75aaa3145beaaf
+      internalID: -1416524229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_318
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 17
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17a05c2242b34cd8817bdf7c37eddb9
+      internalID: -1418561353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n&t_319
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b147ef7f00994df69f61a9fb95a393c
+      internalID: -597022466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      n&t_286: 1269622795
+      n&t_8: -1811981966
+      n&t_69: 1816334386
+      n&t_145: 1627248514
+      n&t_111: -75427745
+      n&t_162: 144315531
+      n&t_252: -970935208
+      n&t_68: -423922559
+      n&t_96: 501569120
+      n&t_51: -743838483
+      n&t_193: 2135548218
+      n&t_287: -1245181900
+      n&t_296: 1071993878
+      n&t_88: -736371958
+      n&t_151: -2089721529
+      n&t_152: 1113728868
+      n&t_212: -1185595383
+      n&t_310: -1352704375
+      n&t_281: -1545854878
+      n&t_117: -2015052047
+      n&t_285: 1644843553
+      n&t_240: -591294694
+      n&t_249: 985882278
+      n&t_7: -114653713
+      n&t_19: -1018453300
+      n&t_84: -1147031284
+      n&t_53: -1556571849
+      n&t_33: 701355393
+      n&t_81: 954911027
+      n&t_167: 121229461
+      n&t_171: -944538494
+      n&t_91: -1097939971
+      n&t_4: -2085677806
+      n&t_43: -705763982
+      n&t_248: -1905090313
+      n&t_206: 1655695703
+      n&t_158: -1653663839
+      n&t_221: -1760209015
+      n&t_272: 1041334311
+      n&t_113: 796475013
+      n&t_207: -1975721488
+      n&t_191: 1567132867
+      n&t_256: 674549530
+      n&t_45: 810785599
+      n&t_314: 1495099848
+      n&t_141: 351936656
+      n&t_27: -1613941862
+      n&t_55: 1530165091
+      n&t_244: 1493258289
+      n&t_24: 204850410
+      n&t_267: -2003675427
+      n&t_122: -1472794152
+      n&t_50: 1829616735
+      n&t_208: 1327898200
+      n&t_6: -1111250451
+      n&t_46: -1840470569
+      n&t_85: 1976122437
+      n&t_246: -1621500207
+      n&t_258: -697765200
+      n&t_41: -1891891961
+      n&t_294: 1353070033
+      n&t_305: 1574868714
+      n&t_28: -113461084
+      n&t_36: -1096124555
+      n&t_317: -1416524229
+      n&t_61: 854741795
+      n&t_160: -815680442
+      n&t_301: 1278232452
+      n&t_124: 1127252730
+      n&t_309: 747796656
+      n&t_131: 1012984373
+      n&t_215: 921484952
+      n&t_35: -1004745882
+      n&t_108: 1240298495
+      n&t_186: 1964438685
+      n&t_196: -984303378
+      n&t_16: -787542634
+      n&t_269: 590478723
+      n&t_99: -635617922
+      n&t_271: -82640613
+      n&t_89: 97579062
+      n&t_75: -1356471310
+      n&t_178: -211401996
+      n&t_149: 790986015
+      n&t_172: -206020136
+      n&t_307: -1417797725
+      n&t_304: -1945181744
+      n&t_95: 447186433
+      n&t_233: -242898772
+      n&t_17: -157395183
+      n&t_295: -1284408947
+      n&t_140: 313252526
+      n&t_144: 1162770319
+      n&t_105: 325532021
+      n&t_37: 1921531367
+      n&t_302: 908420169
+      n&t_82: 1849545967
+      n&t_147: -1520503084
+      n&t_161: 1200028287
+      n&t_283: -2053268946
+      n&t_228: -456293692
+      n&t_13: -933807810
+      n&t_277: -1910132155
+      n&t_25: 1317247975
+      n&t_23: -788246847
+      n&t_77: -1774020932
+      n&t_222: 46254110
+      n&t_121: 1385921010
+      n&t_216: -1412858077
+      n&t_176: -786780892
+      n&t_241: -1397091532
+      n&t_226: 910723936
+      n&t_64: -294791434
+      n&t_293: -1412357231
+      n&t_316: 1491436602
+      n&t_275: -1355959056
+      n&t_300: -1751292748
+      n&t_276: 1517032271
+      n&t_130: -1166246081
+      n&t_229: 1241366525
+      n&t_278: 1448356967
+      n&t_40: -530814041
+      n&t_263: -1167182980
+      n&t_125: -556947666
+      n&t_44: -936694918
+      n&t_225: -1094339154
+      n&t_274: 452603622
+      n&t_5: -954157076
+      n&t_102: -1012865789
+      n&t_57: -135241928
+      n&t_245: -143639008
+      n&t_71: -953889019
+      n&t_104: 496088762
+      n&t_94: -1287165872
+      n&t_179: -649084019
+      n&t_153: -2109503998
+      n&t_173: -1621198969
+      n&t_315: -1834028595
+      n&t_312: -1041073770
+      n&t_165: 452489838
+      n&t_86: 1140942064
+      n&t_120: -78878767
+      n&t_198: -424536790
+      n&t_129: 27191649
+      n&t_159: 688396306
+      n&t_194: 2035307107
+      n&t_80: -1584133205
+      n&t_166: 85132698
+      n&t_250: -2022955411
+      n&t_62: 1215443857
+      n&t_67: -766221468
+      n&t_98: 620493887
+      n&t_32: 964105771
+      n&t_9: 332653046
+      n&t_169: 1355909205
+      n&t_107: 881756864
+      n&t_26: 103837163
+      n&t_214: -541562123
+      n&t_175: 549443809
+      n&t_34: 1822347720
+      n&t_127: -118766110
+      n&t_83: -117645886
+      n&t_195: 807627110
+      n&t_183: -1712866214
+      n&t_298: 1455783564
+      n&t_148: -2050217060
+      n&t_239: -1304683157
+      n&t_297: 586989672
+      n&t_59: 1584472880
+      n&t_139: 513233069
+      n&t_265: 861534195
+      n&t_90: -451841045
+      n&t_30: 1959526325
+      n&t_135: 383666324
+      n&t_101: -233099084
+      n&t_12: -1457795180
+      n&t_217: 1384553120
+      n&t_163: -1393310227
+      n&t_190: -1425539343
+      n&t_168: 1909633669
+      n&t_313: 530223933
+      n&t_92: -796166134
+      n&t_138: -1811070584
+      n&t_115: 796121673
+      n&t_180: -476164092
+      n&t_79: -128097563
+      n&t_192: -1611112729
+      n&t_288: -1779145134
+      n&t_3: -1927126588
+      n&t_49: -946402212
+      n&t_137: -421799398
+      n&t_262: -1746534122
+      n&t_0: 952910372
+      n&t_202: -1976731725
+      n&t_97: -467459925
+      n&t_70: -610397059
+      n&t_189: 1357023301
+      n&t_11: 1128745958
+      n&t_164: -1999598337
+      n&t_201: 1795992975
+      n&t_177: 1471479548
+      n&t_211: -384649429
+      n&t_15: -590082889
+      n&t_270: 217910261
+      n&t_279: -668506436
+      n&t_52: -626626216
+      n&t_103: 2145677126
+      n&t_231: -209686972
+      n&t_181: -2030767457
+      n&t_132: -1178810854
+      n&t_253: 877264951
+      n&t_219: -1749177234
+      n&t_73: 428356355
+      n&t_266: 342299731
+      n&t_29: -1169143752
+      n&t_154: 68212369
+      n&t_184: -1111049209
+      n&t_251: 1247054033
+      n&t_218: -1841785224
+      n&t_143: -1818532147
+      n&t_10: -1341178202
+      n&t_273: 954444200
+      n&t_150: -633671256
+      n&t_155: -930917618
+      n&t_174: 574490785
+      n&t_238: -1207268637
+      n&t_93: 198879559
+      n&t_220: 843398480
+      n&t_76: 1883834022
+      n&t_123: 1273643656
+      n&t_254: -197344869
+      n&t_31: -464522851
+      n&t_119: 1402662892
+      n&t_116: -610317031
+      n&t_292: -1103936361
+      n&t_213: 1203596643
+      n&t_146: 280425873
+      n&t_255: -537533711
+      n&t_170: -956357617
+      n&t_264: -1094008877
+      n&t_39: -1993709824
+      n&t_54: -1286388582
+      n&t_303: 1666904172
+      n&t_114: 97562895
+      n&t_188: -557403499
+      n&t_242: 1407945022
+      n&t_1: 1997814509
+      n&t_48: -380153501
+      n&t_200: 474044501
+      n&t_247: -652561112
+      n&t_182: -1170835986
+      n&t_280: 2114040190
+      n&t_205: -1464422734
+      n&t_128: 1763175080
+      n&t_63: 67640096
+      n&t_66: 272387706
+      n&t_156: -1592526324
+      n&t_290: 436204803
+      n&t_318: -1418561353
+      n&t_60: -2032437145
+      n&t_199: 2145464662
+      n&t_230: 57077392
+      n&t_197: 971740011
+      n&t_210: 1938113902
+      n&t_20: -1831549439
+      n&t_65: -639705723
+      n&t_118: 2076635962
+      n&t_224: -740695312
+      n&t_306: 245075921
+      n&t_259: 1106889570
+      n&t_268: 1891436426
+      n&t_134: -743860103
+      n&t_133: 694677230
+      n&t_109: -1190163072
+      n&t_260: -214102139
+      n&t_223: -208678057
+      n&t_110: 1580601916
+      n&t_58: 565969776
+      n&t_87: -46921368
+      n&t_204: 57436597
+      n&t_236: 1556984354
+      n&t_47: -2060309921
+      n&t_237: 167256105
+      n&t_282: -182435528
+      n&t_291: 1019779622
+      n&t_18: -258088162
+      n&t_261: -541516029
+      n&t_319: -597022466
+      n&t_235: -1037614684
+      n&t_209: -141327078
+      n&t_227: -1361685389
+      n&t_311: 1094360703
+      n&t_308: -2019895272
+      n&t_72: 1744049461
+      n&t_289: 1229222534
+      n&t_42: 70928863
+      n&t_38: 599575456
+      n&t_100: 41293804
+      n&t_106: -1256476746
+      n&t_78: -2119682718
+      n&t_257: 1028320851
+      n&t_185: 1308903359
+      n&t_21: 892486231
+      n&t_232: 1756772632
+      n&t_2: 1825344416
+      n&t_203: -1325868109
+      n&t_112: -1170513648
+      n&t_56: 75291365
+      n&t_234: 568809389
+      n&t_74: -1346303420
+      n&t_136: -2132969731
+      n&t_142: -1166585381
+      n&t_243: 1905898771
+      n&t_187: 2097408246
+      n&t_284: 1799272477
+      n&t_14: 1039621885
+      n&t_22: 696257462
+      n&t_157: -732924344
+      n&t_126: -1388513931
+      n&t_299: -542055600
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
